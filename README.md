@@ -3,7 +3,7 @@ Lokesh Nagalapatti, Pranava Singhal, Avishek Ghosh, Sunita Sarawagi
 
 - Arxiv: https://arxiv.org/abs/2406.03864
 - Accepted at ICML'24
-- The code is adapted from [CATENets](https://github.com/AliciaCurth/CATENets) library for Binary Treatment Effect Estimation. We extend its support for continuous treatments too.
+- The code is adapted from the [CATENets](https://github.com/AliciaCurth/CATENets) library for Binary Treatment Effect Estimation. We extend its support for continuous treatments too.
 
 # To install catenets, use the following commands:
 ```
